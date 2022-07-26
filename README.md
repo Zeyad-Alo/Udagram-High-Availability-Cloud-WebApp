@@ -27,7 +27,7 @@ This is part of Udacity's Cloud DevOps Nanodegree in partnership with EGFWD.
 ./create.sh infraStack infra.yml infraparams.json
 ```
 
-- After the successful completion of infraStack, create the servers' using:
+- After the successful completion of infraStack, create the servers' stack using:
 ```
 ./create.sh serversStack servers.yml serverparams.json
 ```
