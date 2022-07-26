@@ -1,5 +1,5 @@
 Description: >
-  Udagram high-availability webapp cloudformation template.
+  Udagram high-availability webapp cloudformation template for provisioning the networking infrastructure.
 
 
 
