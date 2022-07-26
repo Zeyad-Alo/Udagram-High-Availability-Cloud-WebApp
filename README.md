@@ -4,6 +4,8 @@ Deploying Udagram, a dummy webapp, by provisioning its resources through AWS Clo
 
 This is part of Udacity's Cloud DevOps Nanodegree in partnership with EGFWD.
 
+🔗 <a href="http://serve-loadb-1f5oi6yap70ue-1315106713.us-east-1.elb.amazonaws.com/">WebApp URL</a>
+
 ## Project Requirements
 
 ### Servers: 
