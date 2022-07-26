@@ -95,6 +95,7 @@ Resources:
           apt-get install apache2 -y
           systemctl start apache2.service
           cd /var/www/html
+          aws s3 cp s3://my8104bucket/temp.webp .
           aws s3 cp s3://my8104bucket/index.html .
 
   WebappAutoscalingGroup:
